@@ -1,1 +1,1 @@
-alert('hi')
+window.parent.document.body.style.backgroundColor = 'lightblue';
